@@ -1,11 +1,14 @@
-Teste de Aptidão para a vaga de Analista de BI
+#Teste de Aptidão para a vaga de Analista de BI
+
 A Neoway está com uma vaga para Analista de BI para atuar em Home Office. A
 equipe de BI da Neoway trabalha na construção de aplicações de Business Intelligence
 para clientes de maior relevância no mercado nacional e internacional. Trabalhamos com a
 ferramenta Power BI para a apresentação dos dashboards, porém nosso processo de ETL e
 modelagem dimensional é feito no DBT, usando SQL e Python, e consumindo dados
 geralmente do Bigquery ou de bancos relacionais.
-Sobre o Teste
+
+##Sobre o Teste
+
 O teste consiste na criação de dashboard(s) no Power BI onde a pessoa candidata
 deve sugerir análises que julgar pertinente a partir de bases de uma amostra de empresas
 do Brasil e uma base de processos jurídicos de algumas dessas empresas. As bases são
